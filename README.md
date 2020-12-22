@@ -24,8 +24,8 @@ Geolocation is based on geolocation API. All of the UI is from @materialize API.
  - Create a website using HTML5, CSS3, and [Material-UI](https://material-ui.com)
  
  ## Setup
-After you clone this repo to your desktop, go to its root directory and run [!npm install] to install its dependencies.
-Once the dependencies are installed, you can run [npm start] to start the application. You will then be able to access it at [localhost:3000]
+After you clone this repo to your desktop, go to its root directory and run ```npm install``` to install its dependencies.
+Once the dependencies are installed, you can run ```npm start``` to start the application. You will then be able to access it at ```localhost:3000```
 
 ## Status
 Project is: _in progress_
