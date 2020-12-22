@@ -2,10 +2,10 @@
 > Web app to chat with your neighbours!
 
 # Table of contents
- *[General Info](#general-info)
- *[Technologies](#technologies)
- *[Project Goals](#project-goals)
- *[setup](#setup)
+ * [General Info](#general-info)
+ * [Technologies](#technologies)
+ * [Project Goals](#project-goals)
+ * [setup](#setup)
 
 ## General Info
 An web application to chat with people based on their geolocation. 
